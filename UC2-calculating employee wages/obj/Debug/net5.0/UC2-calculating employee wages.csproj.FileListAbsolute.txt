@@ -1,0 +1,16 @@
+C:\Users\churchill paul\source\repos\UC2-calculating employee wages\UC2-calculating employee wages\bin\Debug\net5.0\UC2-calculating employee wages.exe
+C:\Users\churchill paul\source\repos\UC2-calculating employee wages\UC2-calculating employee wages\bin\Debug\net5.0\UC2-calculating employee wages.deps.json
+C:\Users\churchill paul\source\repos\UC2-calculating employee wages\UC2-calculating employee wages\bin\Debug\net5.0\UC2-calculating employee wages.runtimeconfig.json
+C:\Users\churchill paul\source\repos\UC2-calculating employee wages\UC2-calculating employee wages\bin\Debug\net5.0\UC2-calculating employee wages.runtimeconfig.dev.json
+C:\Users\churchill paul\source\repos\UC2-calculating employee wages\UC2-calculating employee wages\bin\Debug\net5.0\UC2-calculating employee wages.dll
+C:\Users\churchill paul\source\repos\UC2-calculating employee wages\UC2-calculating employee wages\bin\Debug\net5.0\UC2-calculating employee wages.pdb
+C:\Users\churchill paul\source\repos\UC2-calculating employee wages\UC2-calculating employee wages\obj\Debug\net5.0\UC2-calculating employee wages.csproj.AssemblyReference.cache
+C:\Users\churchill paul\source\repos\UC2-calculating employee wages\UC2-calculating employee wages\obj\Debug\net5.0\UC2-calculating employee wages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\churchill paul\source\repos\UC2-calculating employee wages\UC2-calculating employee wages\obj\Debug\net5.0\UC2-calculating employee wages.AssemblyInfoInputs.cache
+C:\Users\churchill paul\source\repos\UC2-calculating employee wages\UC2-calculating employee wages\obj\Debug\net5.0\UC2-calculating employee wages.AssemblyInfo.cs
+C:\Users\churchill paul\source\repos\UC2-calculating employee wages\UC2-calculating employee wages\obj\Debug\net5.0\UC2-calculating employee wages.csproj.CoreCompileInputs.cache
+C:\Users\churchill paul\source\repos\UC2-calculating employee wages\UC2-calculating employee wages\obj\Debug\net5.0\UC2-calculating employee wages.dll
+C:\Users\churchill paul\source\repos\UC2-calculating employee wages\UC2-calculating employee wages\obj\Debug\net5.0\refint\UC2-calculating employee wages.dll
+C:\Users\churchill paul\source\repos\UC2-calculating employee wages\UC2-calculating employee wages\obj\Debug\net5.0\UC2-calculating employee wages.pdb
+C:\Users\churchill paul\source\repos\UC2-calculating employee wages\UC2-calculating employee wages\obj\Debug\net5.0\UC2-calculating employee wages.genruntimeconfig.cache
+C:\Users\churchill paul\source\repos\UC2-calculating employee wages\UC2-calculating employee wages\obj\Debug\net5.0\ref\UC2-calculating employee wages.dll
